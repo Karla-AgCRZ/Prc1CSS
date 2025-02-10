@@ -78,7 +78,7 @@ div{
     height: 50px;
 }
 
-/* Ejemplos de uso de las psedo-clases */
+/* Ejemplos de uso de las pseudo-clases */
 
 .alt:hover{
     background-color: darkorchid;
